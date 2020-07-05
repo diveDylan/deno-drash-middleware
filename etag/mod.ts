@@ -1,6 +1,5 @@
 /**
  * MIT lincense
- * author: dylan
  */
 export {
   ETagMiddleware,
